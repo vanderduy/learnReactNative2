@@ -1,0 +1,3 @@
+rootProject.name = 'learRreactNative2'
+
+include ':app'
